@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "K9jYCysWlkMwHZrYCCcN79w9KI8zOrSVpAUprSfCYjU=",
+  "Hash": "/K6NPPCtsT6E5dRvNifeSOeVrcYgk0QPepQeN2meYpw=",
   "Source": "Book-store",
   "BasePath": "_content/Book-store",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Book-store\\wwwroot",
+      "Source": "Book-store",
+      "ContentRoot": "D:\\GitHub\\Book-store\\Book-store\\wwwroot\\",
+      "BasePath": "_content/Book-store",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

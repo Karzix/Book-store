@@ -10297,11 +10297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Thư mục mới\\Book-store\\Book-store.csproj",
+      "projectUniqueName": "D:\\GitHub\\Book-store\\Book-store\\Book-store.csproj",
       "projectName": "Book-store",
-      "projectPath": "D:\\GitHub\\Thư mục mới\\Book-store\\Book-store.csproj",
+      "projectPath": "D:\\GitHub\\Book-store\\Book-store\\Book-store.csproj",
       "packagesPath": "C:\\Users\\ANH KIET\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Thư mục mới\\Book-store\\obj\\",
+      "outputPath": "D:\\GitHub\\Book-store\\Book-store\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

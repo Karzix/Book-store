@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\Book-store\\Book-store\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\GitHub\\Book-store\\Book-store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Book-store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Book-store.props",
+      "PackagePath": "build\\Book-store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Book-store.props",
+      "PackagePath": "buildMultiTargeting\\Book-store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Book-store.props",
+      "PackagePath": "buildTransitive\\Book-store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

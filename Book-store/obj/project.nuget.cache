@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SDVV/GIvdzHkTDJNFOxamlSm+WGjqg9Zj3BNyG3eNuGZzh09qPVlNIdgTZ8i3xP2IP9eUV0ZU/yOteqd3XxJ4Q==",
+  "dgSpecHash": "xG6SEGePLEKnNlxhU1de8sqUpmIUdm8C2gpdbljqh51lljWLbKUIlrsY3sVsLlwEtPtvq71iJ2R98+MG7WHcpg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Thư mục mới\\Book-store\\Book-store.csproj",
+  "projectFilePath": "D:\\GitHub\\Book-store\\Book-store\\Book-store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANH KIET\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ANH KIET\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
