@@ -96,7 +96,7 @@ namespace Book_store.Controllers
             return CreatedAtAction("GetBook", new { id = book.Id }, book);
         }
 
-        // DELETE: api/Books/5
+        // DELETE: api/Books/5 main 
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBook(int id)
         {
